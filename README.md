@@ -1,2 +1,2 @@
-# GorlovAndrey.github.io
+# Андрей Горлов
 Мой первый сайт
